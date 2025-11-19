@@ -1,24 +1,22 @@
-import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import MobileDashboard from './components/dashboard/mobile-dashboard'
+import { Routes, Route, Link } from 'react-router-dom';
+import Products from './components/products/products';
+import Blog from './components/blog/blog';
+import Pricing from './components/pricing/pricing';
+import MobileSummary from './components/dashboard/mobile-summary';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Routes>
+        <Route path="/" element={<MobileDashboard />} />
+        <Route path="/dashboard" element={<MobileDashboard />} />
+        <Route path= "/products" element={<Products/>}/>
+        <Route path="/blog" element={<Blog/>}/>
+        <Route path="/pricing" element={<Pricing/>}/>
+        <Route path="/summary" element={<MobileSummary/>}/>
+      </Routes>
     </div>
   );
 }

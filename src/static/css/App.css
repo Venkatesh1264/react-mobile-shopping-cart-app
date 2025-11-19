@@ -1,0 +1,41 @@
+/* Basic container styles */
+.container-grid {
+  display: flex; /* Enables flexbox layout for the container */
+    gap: 20px; 
+}
+
+.panel-one,
+.panel-two {
+    /* Optional: This allows the panels to grow and share available space equally */
+    flex: 1; 
+    padding: '20px';
+    text-align: 'left';
+}
+
+.panel-two {
+  /* Styles for the right panel containing the zoom view */
+  position: relative;
+  border: 1px solid #ccc;
+  overflow: hidden; /* Ensures the zoomed image stays within bounds */
+}
+
+
+.carousel-image {
+  /* Ensure images fit within their container */
+  max-width: 100%;
+  height: auto;
+  cursor: crosshair; /* Optional: Change cursor to indicate zoom functionality */
+}
+
+/* The new CSS for the zoom effect */
+.zoom-panel {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  /* Add a smooth transition for the zoom effect */
+  transition: background-size 0.3s ease, opacity 0.3s ease; 
+  pointer-events: none; /* Allows mouse events to pass through to the image below */
+}

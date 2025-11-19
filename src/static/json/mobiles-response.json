@@ -1,0 +1,401 @@
+[
+  {
+    "id": "apple-iphone-15-pro-max",
+    "brand": "Apple",
+    "name": "iPhone 15 Pro Max",
+    "price_usd": 1199.00,
+    "image_url": "https://m.media-amazon.com/images/I/51RGPTAnkFL._AC_UF1000,1000_QL80_.jpg",
+    "specs": {
+      "display": "6.7 inches",
+      "processor": "A17 Pro",
+      "ram": "8GB",
+      "storage": ["256GB", "512GB", "1TB"],
+      "camera": "48MP + 12MP + 12MP"
+    },
+    "summaryImages": [
+      "https://m.media-amazon.com/images/I/51RGPTAnkFL._AC_UF1000,1000_QL80_.jpg",
+      "https://512pixels.net/wp-content/uploads/2023/12/iphone-15-pro-max-natural.jpg",
+      "https://phone-hub.in/cdn/shop/files/iPhone15pro_Max.pgn.webp?v=1759736003"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "samsung-galaxy-s24-ultra",
+    "brand": "Samsung",
+    "name": "Galaxy S24 Ultra",
+    "price_usd": 1299.00,
+    "image_url": "https://i.ytimg.com/vi/5PFp7c8lc6o/maxresdefault.jpg",
+    "specs": {
+      "display": "6.8 inches",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "storage": ["256GB", "512GB", "1TB"],
+      "camera": "200MP + 50MP + 12MP + 10MP"
+    },
+    "summaryImages": [
+      "https://i.ytimg.com/vi/5PFp7c8lc6o/maxresdefault.jpg",
+      "https://mahajanelectronics.com/cdn/shop/articles/Mahajan_banner_18.jpg?v=1705637899",
+      "https://i.insider.com/65c4f207917a1dae02447572?width=700"
+    ],
+    "rating": 2.5
+  },
+  {
+    "id": "google-pixel-8-pro",
+    "brand": "Google",
+    "name": "Pixel 8 Pro",
+    "price_usd": 999.00,
+    "image_url": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-9-1.jpg",
+    "specs": {
+      "display": "6.7 inches",
+      "processor": "Tensor G3",
+      "ram": "12GB",
+      "storage": ["128GB", "256GB", "512GB"],
+      "camera": "50MP + 48MP + 48MP"
+    },
+    "summaryImages": [
+      "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-9-1.jpg",
+      "https://substackcdn.com/image/fetch/$s_!9w0z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa719202f-9086-49ca-bbd3-89adc8c848b9_6000x4000.jpeg",
+      "https://i.pcmag.com/imagery/articles/04u0zYk95OmQ5lINjIDaWip-8..v1696272566.jpg"
+    ],
+    "rating": 1.5
+  },
+  {
+    "id": "oneplus-12",
+    "brand": "OnePlus",
+    "name": "OnePlus 12",
+    "price_usd": 799.00,
+    "image_url": "https://i.gadgets360cdn.com/products/large/oneplus-12-green-651x800-1701772960.jpg",
+    "specs": {
+      "display": "6.82 inches",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "storage": ["256GB", "512GB"],
+      "camera": "50MP + 64MP + 48MP"
+    },
+    "summaryImages": [
+      "https://i.gadgets360cdn.com/products/large/oneplus-12-green-651x800-1701772960.jpg",
+      "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202402/65c06d6333d11-oneplus-12-5g-is-launched-in-india-at-a-starting-price-of-rs-64-999-050849768-16x9.jpg?size=1280:720",
+      "https://images.fonearena.com/blog/wp-content/uploads/2023/12/OnePlus-12-.jpg"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "apple-iphone-15",
+    "brand": "Apple",
+    "name": "iPhone 15",
+    "price_usd": 799.00,
+    "image_url": "https://easyphones.co.in/cdn/shop/files/Apple_iPhone_15_Plus_-_Refurbished_Pink.png?v=1755514789",
+    "specs": {
+      "display": "6.1 inches",
+      "processor": "A16 Bionic",
+      "ram": "6GB",
+      "storage": ["128GB", "256GB", "512GB"],
+      "camera": "48MP + 12MP"
+    },
+    "summaryImages": [
+      "https://easyphones.co.in/cdn/shop/files/Apple_iPhone_15_Plus_-_Refurbished_Pink.png?v=1755514789",
+      "https://m-cdn.phonearena.com/images/hub/404-wide-two_1200/Apple-iPhone-15-release-date-price-and-features.jpg",
+      "https://cdn.mos.cms.futurecdn.net/4YjkNCkTpbuSrgDrbFGUm3-1200-80.jpg"
+    ],
+    "rating": 2.5
+  },
+  {
+    "id": "samsung-galaxy-z-fold5",
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold5",
+    "price_usd": 1799.00,
+    "image_url": "https://www.stuff.tv/wp-content/uploads/sites/2/2023/07/Samsung-Galaxy-Z-Fold-5-review-main-screen.jpg?quality=100&w=1080",
+    "specs": {
+      "display": "7.6 inches (Foldable)",
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": "12GB",
+      "storage": ["256GB", "512GB", "1TB"],
+      "camera": "50MP + 12MP + 10MP"
+    },
+    "summaryImages": [
+      "https://www.stuff.tv/wp-content/uploads/sites/2/2023/07/Samsung-Galaxy-Z-Fold-5-review-main-screen.jpg?quality=100&w=1080",
+      "https://birchtree.me/content/images/size/w1920/2024/09/IMG_0575.3800638ec3544e7ea23ba746cbe36f54.jpg",
+      "https://media.wired.com/photos/650350e08c7815e31e863c7f/4:3/w_1835,h_1376,c_limit/Which-iPhone-15-Should-You-Buy-Gear.jpg"
+    ],
+    "rating": 0.5
+  },
+  {
+    "id": "xiaomi-14-ultra",
+    "brand": "Xiaomi",
+    "name": "Xiaomi 14 Ultra",
+    "price_usd": 1499.00,
+    "image_url": "https://i.gadgets360cdn.com/products/large/xiaomi-14-ultra-db-612x800-1708665175.jpg",
+    "specs": {
+      "display": "6.73 inches",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "16GB",
+      "storage": ["512GB", "1TB"],
+      "camera": "50MP + 50MP + 50MP + 50MP"
+    },
+    "summaryImages": [
+      "https://i.gadgets360cdn.com/products/large/xiaomi-14-ultra-db-612x800-1708665175.jpg",
+      "https://i.gadgets360cdn.com/large/xiaomi_14_ultra_1709820357010.jpg",
+      "https://images.fonearena.com/blog/wp-content/uploads/2024/02/Xiaomi-14-Ultra-render-leak.jpg"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "google-pixel-7a",
+    "brand": "Google",
+    "name": "Pixel 7a",
+    "price_usd": 499.00,
+    "image_url": "https://helios-i.mashable.com/imagery/articles/03Rqz1MgoRX0N2e3dD38EMC/hero-image.fill.size_1248x702.v1683567658.jpg",
+    "specs": {
+      "display": "6.1 inches",
+      "processor": "Tensor G2",
+      "ram": "8GB",
+      "storage": ["128GB"],
+      "camera": "64MP + 13MP"
+    },
+    "summaryImages": [
+      "https://helios-i.mashable.com/imagery/articles/03Rqz1MgoRX0N2e3dD38EMC/hero-image.fill.size_1248x702.v1683567658.jpg",
+      "https://www.cnet.com/a/img/resize/aa1e0f0ca024b8ff54891da05bb69eea0d806f1e/hub/2023/05/04/e04d313c-0c17-40c6-8d20-5a99d56be5be/google-pixel-7a-phone-6.jpg?auto=webp&fit=crop&height=1200&width=1200",
+      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24644270/Pixel_7a_All.jpg?quality=90&strip=all&crop=0,3.0386740331492,100,93.922651933702"
+    ],
+    "rating": 5
+  },
+  {
+    "id": "sony-xperia-1-v",
+    "brand": "Sony",
+    "name": "Xperia 1 V",
+    "price_usd": 1399.00,
+    "image_url": "https://images.fonearena.com/blog/wp-content/uploads/2023/05/Sony-Xperia-I-V-2-1024x623.jpg",
+    "specs": {
+      "display": "6.5 inches (4K OLED)",
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": "12GB",
+      "storage": ["256GB", "512GB"],
+      "camera": "48MP + 12MP + 12MP"
+    },
+    "summaryImages": [
+      "https://images.fonearena.com/blog/wp-content/uploads/2023/05/Sony-Xperia-I-V-2-1024x623.jpg",
+      "https://os-wordpress-media.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2022/04/28125830/Untitled-design-2022-04-28T125819.736.jpg",
+      "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/160343-phones-news-xperia-1-iv-image1-ixqvbotg5h.jpg"
+    ],
+    "rating": 4
+  },
+  {
+    "id": "apple-iphone-se-3rd-gen",
+    "brand": "Apple",
+    "name": "iPhone SE (3rd Gen)",
+    "price_usd": 429.00,
+    "image_url": "https://images.offerup.com/HZB109Cr0FJ_wGzmonai8Fk-gx4=/2048x1192/26e7/26e7bea6a4494fdca8496a90f2c44e15.jpg",
+    "specs": {
+      "display": "4.7 inches",
+      "processor": "A15 Bionic",
+      "ram": "4GB",
+      "storage": ["64GB", "128GB", "256GB"],
+      "camera": "12MP"
+    },
+    "summaryImages": [
+      "https://images.offerup.com/HZB109Cr0FJ_wGzmonai8Fk-gx4=/2048x1192/26e7/26e7bea6a4494fdca8496a90f2c44e15.jpg",
+      "https://www.getorchard.com/cdn/shop/products/iphone-se-2022.png?v=1751429052",
+      "https://i.gzn.jp/img/2022/03/18/3rd-iphone-se-photo/00.jpg"
+    ],
+    "rating": 3
+  },
+  {
+    "id": "samsung-galaxy-a54-5g",
+    "brand": "Samsung",
+    "name": "Galaxy A54 5G",
+    "price_usd": 449.00,
+    "image_url": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a54-5.jpg",
+    "specs": {
+      "display": "6.4 inches",
+      "processor": "Exynos 1380",
+      "ram": "6GB",
+      "storage": ["128GB", "256GB"],
+      "camera": "50MP + 12MP + 5MP"
+    },
+    "summaryImages": [
+      "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a54-5.jpg",
+      "https://i.ytimg.com/vi/BXH54ciCXCc/maxresdefault.jpg",
+      "https://images.fonearena.com/blog/wp-content/uploads/2023/03/Samsung-Galaxy-A54-5G_fonearena-1-1024x690.jpg"
+    ],
+    "rating": 2
+  },
+  {
+    "id": "oneplus-open",
+    "brand": "OnePlus",
+    "name": "OnePlus Open",
+    "price_usd": 1699.00,
+    "image_url": "https://helios-i.mashable.com/imagery/reviews/01EMFkSHOznZEvUu5qJDDa3/hero-image.fill.size_1248x702.v1697653449.png",
+    "specs": {
+      "display": "7.82 inches (Foldable)",
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": "16GB",
+      "storage": ["512GB"],
+      "camera": "48MP + 64MP + 48MP"
+    },
+    "summaryImages": [
+      "https://helios-i.mashable.com/imagery/reviews/01EMFkSHOznZEvUu5qJDDa3/hero-image.fill.size_1248x702.v1697653449.png",
+      "https://www.hindustantimes.com/ht-img/img/2023/10/26/1600x900/The-new-OnePlus-Open---Vishal-Mathur---HT-Photo-_1698295615509.jpg"
+    ],
+    "rating": 1
+  },
+  {
+    "id": "motorola-edge-40-pro",
+    "brand": "Motorola",
+    "name": "Edge 40 Pro",
+    "price_usd": 899.00,
+    "image_url": "https://m.media-amazon.com/images/I/71NbcMrlZOL.jpg",
+    "specs": {
+      "display": "6.67 inches",
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": "12GB",
+      "storage": ["256GB", "512GB"],
+      "camera": "50MP + 50MP + 12MP"
+    },
+    "summaryImages": [
+      "https://helios-i.mashable.com/imagery/reviews/01EMFkSHOznZEvUu5qJDDa3/hero-image.fill.size_1248x702.v1697653449.png",
+      "https://sm.pcmag.com/t/pcmag_me/review/o/oneplus-op/oneplus-open_rjft.1200.jpg",
+      "https://fonezone.me/cdn/shop/articles/811f9053f4bf0d118ac5fbd13c9813be.png?v=1747144188"
+    ],
+    "rating": 0
+  },
+  {
+    "id": "oppo-find-x6-pro",
+    "brand": "Oppo",
+    "name": "Find X6 Pro",
+    "price_usd": 1100.00,
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/23/oppo-find-x6-pro/lifestyle/-1200w5/gsmarena_020.jpg",
+    "specs": {
+      "display": "6.82 inches",
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": "12GB",
+      "storage": ["256GB", "512GB"],
+      "camera": "50MP + 50MP + 50MP"
+    },
+    "summaryImages": [
+      "https://fdn.gsmarena.com/imgroot/reviews/23/oppo-find-x6-pro/lifestyle/-1200w5/gsmarena_020.jpg",
+      "https://amateurphotographer.com/wp-content/uploads/sites/7/2023/09/oppo_find_x6_pro_10.jpeg",
+      "https://amateurphotographer.com/wp-content/uploads/sites/7/2023/09/oppo_find_x6_pro_12.jpeg"
+    ],
+    "rating": 3.5
+  },
+  {
+    "id": "asus-rog-phone-7-ultimate",
+    "brand": "Asus",
+    "name": "ROG Phone 7 Ultimate",
+    "price_usd": 1399.00,
+    "image_url": "https://sc04.alicdn.com/kf/H7292cbdc7bba46608cfcbe6240281ab4X.png",
+    "specs": {
+      "display": "6.78 inches",
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": "16GB",
+      "storage": ["512GB"],
+      "camera": "50MP + 13MP + 5MP"
+    },
+    "summaryImages": [
+      "https://sc04.alicdn.com/kf/H7292cbdc7bba46608cfcbe6240281ab4X.png",
+      "https://cdn.phonebunch.com/news-images/2023/04/Asus-ROG-Phone-7-Ultimate-and-ROG-Phone-7-launch-India-phonebunch.jpg",
+      "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2023/04/asus-rog-phone-7-ultimate-1.jpg?w=1600&h=1200&fit=crop"
+    ],
+    "rating": 3.5
+  },
+  {
+    "id": "nothing-phone-2",
+    "brand": "Nothing",
+    "name": "Phone (2)",
+    "price_usd": 699.00,
+    "image_url": "https://www.themobileindian.com/wp-content/uploads/2024/07/Nothing-phone-2a-plus-specs-1-600x600.jpg",
+    "specs": {
+      "display": "6.7 inches",
+      "processor": "Snapdragon 8+ Gen 1",
+      "ram": "8GB",
+      "storage": ["128GB", "256GB", "512GB"],
+      "camera": "50MP + 50MP"
+    },
+    "summaryImages": [
+      "https://www.themobileindian.com/wp-content/uploads/2024/07/Nothing-phone-2a-plus-specs-1-600x600.jpg",
+      "https://fdn2.gsmarena.com/vv/pics/nothing/nothing-phone2-3.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4295qEB3rA4Ukw4_yfVcyFbssVdIk3fyLrQ&s"
+    ],
+    "rating": 3.5
+  },
+  {
+    "id": "vivo-x90-pro",
+    "brand": "Vivo",
+    "name": "X90 Pro",
+    "price_usd": 1000.00,
+    "image_url": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x90-pro-2.jpg",
+    "specs": {
+      "display": "6.78 inches",
+      "processor": "Dimensity 9200",
+      "ram": "8GB",
+      "storage": ["256GB"],
+      "camera": "50MP + 50MP + 12MP"
+    },
+    "summaryImages": [
+      "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x90-pro-2.jpg",
+      "https://www.livehindustan.com/lh-img/uploadimage/library/2023/10/20/16_9/16_9_6/vivo_x90_pro_price_drop_in_india_now_available_at_new_price_of_rs_74999_and_get_upto_10000_rs_cashba_1697783499.jpg",
+      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24403599/X90_Pro_Legendary_Black.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+    ],
+    "rating": 3.5
+  },
+  {
+    "id": "redmi-note-13-pro-plus",
+    "brand": "Redmi",
+    "name": "Note 13 Pro+",
+    "price_usd": 399.00,
+    "image_url": "https://cdn.beebom.com/mobile/2024/01/Redmi-Note-13-Pro-Plus-5G.png",
+    "specs": {
+      "display": "6.67 inches",
+      "processor": "Dimensity 7200 Ultra",
+      "ram": "8GB",
+      "storage": ["256GB", "512GB"],
+      "camera": "200MP + 8MP + 2MP"
+    },
+    "summaryImages": [
+      "https://cdn.beebom.com/mobile/2024/01/Redmi-Note-13-Pro-Plus-5G.png",
+      "https://i02.appmifile.com/459_operator_sg/07/03/2024/e02b29a7d2f967df65c7d80775b11426.png",
+      "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-13-pro-plus-01.jpg"
+    ],
+    "rating": 3.5
+  },
+  {
+    "id": "honor-magic-5-pro",
+    "brand": "Honor",
+    "name": "Magic 5 Pro",
+    "price_usd": 1099.00,
+    "image_url": "https://www.coolsmartphone.com/wp-content/uploads/2023/04/SharedScreenshot.jpg",
+    "specs": {
+      "display": "6.81 inches",
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": "8GB",
+      "storage": ["256GB", "512GB"],
+      "camera": "50MP + 50MP + 50MP"
+    },
+    "summaryImages": [
+      "https://www.coolsmartphone.com/wp-content/uploads/2023/04/SharedScreenshot.jpg",
+      "https://www.vopmart.com/media/catalog/product/cache/ee14c5ab36c97d39d331f867fa3bee63/2/3/23090ra98c.jpg",
+      "https://i0.wp.com/androidguys.com/wp-content/uploads/2024/02/redmi_note_13_pro_plus_01.jpg?resize=1068%2C601&ssl=1"
+    ],
+    "rating": 3.5
+  },
+  {
+    "id": "realme-gt-5-pro",
+    "brand": "Realme",
+    "name": "GT 5 Pro",
+    "price_usd": 500.00,
+    "image_url": "https://th-i.thgim.com/public/incoming/okxd2/article67617559.ece/alternates/FREE_1200/realme%20GT5%20Pro.jpg",
+    "specs": {
+      "display": "6.78 inches",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "storage": ["256GB", "512GB", "1TB"],
+      "camera": "50MP + 50MP + 8MP"
+    },
+    "summaryImages": [
+      "https://th-i.thgim.com/public/incoming/okxd2/article67617559.ece/alternates/FREE_1200/realme%20GT5%20Pro.jpg",
+      "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/12/realme-gt-5-pro-1701952590.jpg",
+      "https://images.fonearena.com/blog/wp-content/uploads/2023/12/relme-GT5-Pro-1024x722.jpg"
+    ],
+    "rating": 3.5
+  }
+]
