@@ -1,10 +1,11 @@
 // src/store/rootReducer.ts
 import { combineReducers } from '@reduxjs/toolkit';
 import mobilesReducer from './mobilesSlice'; 
-// import counterReducer from './counterSlice'; 
+import cartReducer from './cartSlice'
 
 const rootReducer = combineReducers({
-  mobiles: mobilesReducer
+  mobiles: mobilesReducer,
+  carts: cartReducer
 });
 
 export default rootReducer;

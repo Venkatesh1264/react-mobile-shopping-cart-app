@@ -24,8 +24,18 @@ function* fetchMobilesSaga(action: PayloadAction<number>): Generator<any, void, 
   }
 }
 
+/* function* updateCartSaga(action: PayloadAction<MobileData>) {
+  yield put(updateCartItems(action.payload))
+}
+
+function* deleteCartSaga(action: PayloadAction<MobileData>) {
+  yield put(deleteCartItems(action.payload))
+} */
+
 // Watcher Saga: listens for specific actions and runs the worker saga
 export default function* watchFetchMobiles() {
   // 'takeEvery' listens for every 'fetchUserRequest' action and runs 'fetchUserSaga'
   yield takeEvery(fetchMobilesRequest.type, fetchMobilesSaga);
+  // yield takeEvery(updateCartItems.type, updateCartSaga);
+  // yield takeEvery(deleteCartItems.type, deleteCartSaga)
 }

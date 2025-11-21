@@ -10,9 +10,10 @@ export interface MobileData  {
     id: string;
     brand: string;
     name: string;
-    price_usd: number;
+    offer_price: number;
     image_url: string;
     specs: Specs;
     summaryImages: string[],
-    rating: number
+    rating: number,
+    old_price: number;
 }

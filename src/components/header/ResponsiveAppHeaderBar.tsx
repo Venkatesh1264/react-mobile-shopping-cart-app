@@ -16,6 +16,7 @@ import { useNavigate } from 'react-router-dom';
 import Badge, { badgeClasses } from '@mui/material/Badge';
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCartOutlined';
 import { styled } from '@mui/material/styles';
+import { useAppSelector } from '../../hooks';
 
 const CartBadge = styled(Badge)`
   & .${badgeClasses.badge} {
@@ -30,6 +31,7 @@ function ResponsiveAppHeaderBar() {
   const [anchorElNav, setAnchorElNav] = React.useState<null | HTMLElement>(null);
   const [anchorElUser, setAnchorElUser] = React.useState<null | HTMLElement>(null);
   const navigate = useNavigate(); // Initialize useNavigate
+  const { cartData } = useAppSelector((state) => state.carts);
 
   const handleOpenNavMenu = (event: React.MouseEvent<HTMLElement>) => {
     setAnchorElNav(event.currentTarget);
@@ -151,9 +153,9 @@ function ResponsiveAppHeaderBar() {
           </Box>
           <Box sx={{ flexGrow: 0 }}>
             <Tooltip title="Open Cart">
-              <IconButton style={{color: 'white', marginRight: '25px'}}>
+              <IconButton style={{color: 'white', marginRight: '25px'}} onClick={() => navigate('/cart-summary')}>
                 <ShoppingCartIcon fontSize="small" />
-                <CartBadge badgeContent={2} color="secondary" overlap="circular" variant='standard' />
+                <CartBadge badgeContent={cartData.length} color="secondary" overlap="circular" variant='standard' />
               </IconButton>
             </Tooltip>
             <Tooltip title="Open settings">

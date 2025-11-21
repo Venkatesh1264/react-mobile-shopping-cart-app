@@ -3,8 +3,9 @@
     "id": "apple-iphone-15-pro-max",
     "brand": "Apple",
     "name": "iPhone 15 Pro Max",
-    "price_usd": 1199.00,
-    "image_url": "https://m.media-amazon.com/images/I/51RGPTAnkFL._AC_UF1000,1000_QL80_.jpg",
+    "offer_price": 1199.00,
+    "old_price": 1599.00,
+    "image_url": "https://tiimg.tistatic.com/fp/1/009/204/apple-iphone-15-pro-max-256gb-1tb-titanium--019.jpg",
     "specs": {
       "display": "6.7 inches",
       "processor": "A17 Pro",
@@ -13,9 +14,9 @@
       "camera": "48MP + 12MP + 12MP"
     },
     "summaryImages": [
-      "https://m.media-amazon.com/images/I/51RGPTAnkFL._AC_UF1000,1000_QL80_.jpg",
+      "https://tiimg.tistatic.com/fp/1/009/204/apple-iphone-15-pro-max-256gb-1tb-titanium--019.jpg",
       "https://512pixels.net/wp-content/uploads/2023/12/iphone-15-pro-max-natural.jpg",
-      "https://phone-hub.in/cdn/shop/files/iPhone15pro_Max.pgn.webp?v=1759736003"
+      "https://www.macworld.com/wp-content/uploads/2024/10/iphone-15-pro-max-hero02-4.jpg?quality=50&strip=all"
     ],
     "rating": 4.5
   },
@@ -23,7 +24,8 @@
     "id": "samsung-galaxy-s24-ultra",
     "brand": "Samsung",
     "name": "Galaxy S24 Ultra",
-    "price_usd": 1299.00,
+    "offer_price": 1299.00,
+    "old_price": 1599.00,
     "image_url": "https://i.ytimg.com/vi/5PFp7c8lc6o/maxresdefault.jpg",
     "specs": {
       "display": "6.8 inches",
@@ -43,7 +45,8 @@
     "id": "google-pixel-8-pro",
     "brand": "Google",
     "name": "Pixel 8 Pro",
-    "price_usd": 999.00,
+    "offer_price": 999.00,
+    "old_price": 1599.00,
     "image_url": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-9-1.jpg",
     "specs": {
       "display": "6.7 inches",
@@ -63,7 +66,8 @@
     "id": "oneplus-12",
     "brand": "OnePlus",
     "name": "OnePlus 12",
-    "price_usd": 799.00,
+    "offer_price": 799.00,
+    "old_price": 1599.00,
     "image_url": "https://i.gadgets360cdn.com/products/large/oneplus-12-green-651x800-1701772960.jpg",
     "specs": {
       "display": "6.82 inches",
@@ -83,7 +87,8 @@
     "id": "apple-iphone-15",
     "brand": "Apple",
     "name": "iPhone 15",
-    "price_usd": 799.00,
+    "offer_price": 799.00,
+    "old_price": 1599.00,
     "image_url": "https://easyphones.co.in/cdn/shop/files/Apple_iPhone_15_Plus_-_Refurbished_Pink.png?v=1755514789",
     "specs": {
       "display": "6.1 inches",
@@ -103,7 +108,8 @@
     "id": "samsung-galaxy-z-fold5",
     "brand": "Samsung",
     "name": "Galaxy Z Fold5",
-    "price_usd": 1799.00,
+    "offer_price": 1799.00,
+    "old_price": 2099.00,
     "image_url": "https://www.stuff.tv/wp-content/uploads/sites/2/2023/07/Samsung-Galaxy-Z-Fold-5-review-main-screen.jpg?quality=100&w=1080",
     "specs": {
       "display": "7.6 inches (Foldable)",
@@ -123,7 +129,8 @@
     "id": "xiaomi-14-ultra",
     "brand": "Xiaomi",
     "name": "Xiaomi 14 Ultra",
-    "price_usd": 1499.00,
+    "offer_price": 1499.00,
+    "old_price": 1599.00,
     "image_url": "https://i.gadgets360cdn.com/products/large/xiaomi-14-ultra-db-612x800-1708665175.jpg",
     "specs": {
       "display": "6.73 inches",
@@ -143,7 +150,8 @@
     "id": "google-pixel-7a",
     "brand": "Google",
     "name": "Pixel 7a",
-    "price_usd": 499.00,
+    "offer_price": 499.00,
+    "old_price": 1599.00,
     "image_url": "https://helios-i.mashable.com/imagery/articles/03Rqz1MgoRX0N2e3dD38EMC/hero-image.fill.size_1248x702.v1683567658.jpg",
     "specs": {
       "display": "6.1 inches",
@@ -163,7 +171,8 @@
     "id": "sony-xperia-1-v",
     "brand": "Sony",
     "name": "Xperia 1 V",
-    "price_usd": 1399.00,
+    "offer_price": 1399.00,
+    "old_price": 1599.00,
     "image_url": "https://images.fonearena.com/blog/wp-content/uploads/2023/05/Sony-Xperia-I-V-2-1024x623.jpg",
     "specs": {
       "display": "6.5 inches (4K OLED)",
@@ -183,7 +192,8 @@
     "id": "apple-iphone-se-3rd-gen",
     "brand": "Apple",
     "name": "iPhone SE (3rd Gen)",
-    "price_usd": 429.00,
+    "offer_price": 429.00,
+    "old_price": 1599.00,
     "image_url": "https://images.offerup.com/HZB109Cr0FJ_wGzmonai8Fk-gx4=/2048x1192/26e7/26e7bea6a4494fdca8496a90f2c44e15.jpg",
     "specs": {
       "display": "4.7 inches",
@@ -203,7 +213,8 @@
     "id": "samsung-galaxy-a54-5g",
     "brand": "Samsung",
     "name": "Galaxy A54 5G",
-    "price_usd": 449.00,
+    "offer_price": 449.00,
+    "old_price": 1599.00,
     "image_url": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a54-5.jpg",
     "specs": {
       "display": "6.4 inches",
@@ -223,7 +234,8 @@
     "id": "oneplus-open",
     "brand": "OnePlus",
     "name": "OnePlus Open",
-    "price_usd": 1699.00,
+    "offer_price": 1699.00,
+    "old_price": 1999.00,
     "image_url": "https://helios-i.mashable.com/imagery/reviews/01EMFkSHOznZEvUu5qJDDa3/hero-image.fill.size_1248x702.v1697653449.png",
     "specs": {
       "display": "7.82 inches (Foldable)",
@@ -242,7 +254,8 @@
     "id": "motorola-edge-40-pro",
     "brand": "Motorola",
     "name": "Edge 40 Pro",
-    "price_usd": 899.00,
+    "offer_price": 899.00,
+    "old_price": 1599.00,
     "image_url": "https://m.media-amazon.com/images/I/71NbcMrlZOL.jpg",
     "specs": {
       "display": "6.67 inches",
@@ -262,7 +275,8 @@
     "id": "oppo-find-x6-pro",
     "brand": "Oppo",
     "name": "Find X6 Pro",
-    "price_usd": 1100.00,
+    "offer_price": 1100.00,
+    "old_price": 1599.00,
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/23/oppo-find-x6-pro/lifestyle/-1200w5/gsmarena_020.jpg",
     "specs": {
       "display": "6.82 inches",
@@ -282,7 +296,8 @@
     "id": "asus-rog-phone-7-ultimate",
     "brand": "Asus",
     "name": "ROG Phone 7 Ultimate",
-    "price_usd": 1399.00,
+    "offer_price": 1399.00,
+    "old_price": 1599.00,
     "image_url": "https://sc04.alicdn.com/kf/H7292cbdc7bba46608cfcbe6240281ab4X.png",
     "specs": {
       "display": "6.78 inches",
@@ -302,7 +317,8 @@
     "id": "nothing-phone-2",
     "brand": "Nothing",
     "name": "Phone (2)",
-    "price_usd": 699.00,
+    "offer_price": 699.00,
+    "old_price": 1599.00,
     "image_url": "https://www.themobileindian.com/wp-content/uploads/2024/07/Nothing-phone-2a-plus-specs-1-600x600.jpg",
     "specs": {
       "display": "6.7 inches",
@@ -322,7 +338,8 @@
     "id": "vivo-x90-pro",
     "brand": "Vivo",
     "name": "X90 Pro",
-    "price_usd": 1000.00,
+    "offer_price": 1000.00,
+    "old_price": 1599.00,
     "image_url": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x90-pro-2.jpg",
     "specs": {
       "display": "6.78 inches",
@@ -342,7 +359,8 @@
     "id": "redmi-note-13-pro-plus",
     "brand": "Redmi",
     "name": "Note 13 Pro+",
-    "price_usd": 399.00,
+    "offer_price": 399.00,
+    "old_price": 1599.00,
     "image_url": "https://cdn.beebom.com/mobile/2024/01/Redmi-Note-13-Pro-Plus-5G.png",
     "specs": {
       "display": "6.67 inches",
@@ -362,7 +380,8 @@
     "id": "honor-magic-5-pro",
     "brand": "Honor",
     "name": "Magic 5 Pro",
-    "price_usd": 1099.00,
+    "offer_price": 1099.00,
+    "old_price": 1599.00,
     "image_url": "https://www.coolsmartphone.com/wp-content/uploads/2023/04/SharedScreenshot.jpg",
     "specs": {
       "display": "6.81 inches",
@@ -382,7 +401,8 @@
     "id": "realme-gt-5-pro",
     "brand": "Realme",
     "name": "GT 5 Pro",
-    "price_usd": 500.00,
+    "offer_price": 500.00,
+    "old_price": 1599.00,
     "image_url": "https://th-i.thgim.com/public/incoming/okxd2/article67617559.ece/alternates/FREE_1200/realme%20GT5%20Pro.jpg",
     "specs": {
       "display": "6.78 inches",
